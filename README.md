@@ -1,4 +1,4 @@
-# Geotechnical-Borelog-Digitisation
+# Geotechnical Borelog Digitizer
 
 pip install streamlit streamlit-image-coordinates pdfplumber pandas openpyxl
 
