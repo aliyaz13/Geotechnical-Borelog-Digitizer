@@ -40,7 +40,7 @@ Make sure you have **Python 3.9+** installed, then install the required packages
 pip install streamlit streamlit-image-coordinates pdfplumber pandas openpyxl pillow
 ```
 
-
+---
 
 ## 🚀 How to Run (via Command Prompt)
 
@@ -72,10 +72,14 @@ Open your browser (it usually opens automatically) and go to:
 
 Upload your test PDF (for example, spt_a1.pdf included in this repo) and start using the app.
 
+---
+
 ## 🧪 Test File
 
 A sample file spt_a1.pdf is included in this repository.
 It demonstrates a typical borelog layout with aligned but unstructured data columns.
+
+---
 
 ## 🧱 Example Workflow
 
@@ -90,8 +94,11 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
 5. Click Extract Current Page or Extract All Pages.
 
 6. Download your structured Excel file. ✅
+   
+---
 
 ## 🧩 Directory Structure
+
 📂 Geotechnical-Borelog-Digitizer
  ├── pdf_table_extractor_gui_03.py      # Main Streamlit app
  ├── spt_a1.pdf                         # Example test file
