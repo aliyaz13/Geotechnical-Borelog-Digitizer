@@ -95,7 +95,7 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
 
 6. Download your structured Excel file. ✅
    
----
+
 
 ## 🧩 Directory Structure
 
@@ -107,7 +107,7 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
  │    └── demo_preview.png              # Optional screenshots for README
  └── README.md
 
- ---
+
 
 ## 🧠 Roadmap / TODOs
 
@@ -122,7 +122,7 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
 
 This project is released under the **MIT License** — feel free to use, modify, and distribute it.
 
----
+
 
 ## 🧑‍💻 Author
 
@@ -130,4 +130,5 @@ This project is released under the **MIT License** — feel free to use, modify,
 📅 *October 2025*
 📫 Contact: ali.yaz@student.tugraz.at
 
----
+
+
