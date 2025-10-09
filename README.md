@@ -14,7 +14,7 @@ This tool provides a **visual interface** where you can:
 - Set header/footer cutoff regions to exclude unwanted areas.
 - Extract data from single or multiple pages into Excel format.
 
-It’s especially handy for **SPT logs, field sheets, or scanned borehole tables** where data columns are aligned visually but not tagged digitally.
+It’s particularly useful for **SPT logs, field sheets, or borehole records** where the text is digital yet **not arranged in consistent columns**, causing parsing errors in typical PDF tools.
 
 ---
 
@@ -99,3 +99,28 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
  ├── assets/
  │    └── demo_preview.png              # Optional screenshots for README
  └── README.md
+
+ ---
+
+## 🧠 Roadmap / TODOs
+
+* [ ] Add thicker semi-transparent backgrounds behind column labels.
+* [ ] Optimize performance when defining many columns.
+* [ ] Add export options for CSV/JSON.
+* [ ] Improve multi-page extraction preview.
+
+---
+
+## 📜 License
+
+This project is released under the **MIT License** — feel free to use, modify, and distribute it.
+
+---
+
+## 🧑‍💻 Author
+
+**Ali Yaz**
+📅 *October 2025*
+📫 Contact: ali.yaz@student.tugraz.at
+
+---
