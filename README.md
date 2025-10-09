@@ -141,7 +141,8 @@ This project is released under the **MIT License** — feel free to use, modify,
 
 **Ali Yaz**  
 📅 *October 2025*  
-📫 Contact: [ali.yaz@student.tugraz.at](mailto:ali.yaz@student.tugraz.at)
+📫 Email: [ali.yaz@student.tugraz.at](mailto:ali.yaz@student.tugraz.at)  
+🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
 
 ---
 
