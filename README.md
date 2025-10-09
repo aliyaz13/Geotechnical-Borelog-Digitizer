@@ -142,8 +142,10 @@ This project is released under the **MIT License** — feel free to use, modify,
 **Ali Yaz**  
 📅 *October 2025*  
 📫 Email: [ali.yaz@student.tugraz.at](mailto:ali.yaz@student.tugraz.at)  
-🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="20" height="20" alt="LinkedIn"/>
+</a> (https://www.linkedin.com/in/aliyaz99)
+ 
 ---
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)
