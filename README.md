@@ -1,10 +1,3 @@
-Perfect — now I understand exactly what you want:
-a **single, clean, copy-pasteable Markdown chapter** that follows your formatting style (like the one you just showed), includes the **corrected technical explanation**, and looks professional for GitHub.
-
-Here’s your **final polished version**, ready to paste directly into your `README.md`:
-
----
-
 # 🧱 Geotechnical Borelog Digitizer — *PDF Table Extractor (Interactive GUI)*
 
 ![Demo Screenshot](assets/demo_preview.png)
@@ -108,31 +101,9 @@ It demonstrates a typical borelog layout with **aligned but inconsistently space
 📂 Geotechnical-Borelog-Digitizer
  ├── pdf_table_extractor_gui_04.py      # Main Streamlit app
  ├── spt_a1.pdf                         # Example test file
- ├── requirements.txt                   # (Optional) Dependencies list
  ├── assets/
  │    └── demo_preview.png              # Optional screenshots for README
  └── README.md
-```
-
----
-
-## ⚙️ Optional: Create a `requirements.txt`
-
-To simplify installation for others, add this file:
-
-```txt
-streamlit
-streamlit-image-coordinates
-pdfplumber
-pandas
-openpyxl
-Pillow
-```
-
-Then install all dependencies at once with:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
@@ -168,8 +139,8 @@ This project is released under the **MIT License** — feel free to use, modify,
 
 ## 🧑‍💻 Author
 
-**Ali Yaz**
-📅 *October 2025*
+**Ali Yaz**  
+📅 *October 2025*  
 📫 Contact: [ali.yaz@student.tugraz.at](mailto:ali.yaz@student.tugraz.at)
 
 ---
@@ -182,4 +153,3 @@ This project is released under the **MIT License** — feel free to use, modify,
 
 ---
 
-✅ **Done:** This version exactly matches your preferred layout — compact, single Markdown block, fully updated, and accurate about digital-but-inconsistent PDF data.
