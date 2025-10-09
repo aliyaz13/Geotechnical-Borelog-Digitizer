@@ -1,11 +1,11 @@
 # 🧱 Geotechnical Borelog Digitizer — *PDF Table Extractor (Interactive GUI)*
 
 ![Demo Screenshot](assets/demo_preview.png)
-> An interactive Streamlit app for visually defining and extracting tabular data from geotechnical borelogs or other structured-but-unformatted PDFs.
+
 ---
 
 ## 📘 Overview
-
+> An interactive Streamlit app for visually defining and extracting tabular data from geotechnical borelogs or other structured-but-unformatted PDFs.
 **Geotechnical Borelog Digitizer** helps convert complex borelog PDFs into clean, structured data — **without needing fixed templates or OCR-heavy workflows.**
 
 This tool provides a **visual interface** where you can:
