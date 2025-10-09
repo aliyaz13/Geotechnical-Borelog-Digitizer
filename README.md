@@ -106,7 +106,7 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
 
 * [ ] Add thicker semi-transparent backgrounds behind column labels.
 * [ ] Optimize performance when defining many columns.
-* [ ] Add export options for CSV/JSON.
+* [ ] Add export options for CSV/JSON/AGS4.
 * [ ] Improve multi-page extraction preview.
 
 ---
