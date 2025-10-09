@@ -1,4 +1,4 @@
-# 🧱 Geotechnical Borelog Digitizer — *PDF Table Extractor (Interactive GUI)*
+# Geotechnical Borelog Digitizer — *PDF Table Extractor (Interactive GUI)*
 
 ![Demo Screenshot](assets/demo_preview.png)
 
