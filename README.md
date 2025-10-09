@@ -40,7 +40,7 @@ Make sure you have **Python 3.9+** installed, then install the required packages
 
 ```bash
 pip install streamlit streamlit-image-coordinates pdfplumber pandas openpyxl pillow
-```bash
+```
 
 
 
@@ -51,22 +51,23 @@ Example (Windows):
 
 ```bash
 cd "C:\Users\YourName\Desktop\Borelog_GUI"
-```bash
+```
 
 Run the Streamlit app:
 
 ```bash
 streamlit run pdf_table_extractor_gui_03.py
-```bash
+```
 
 After running the above command, Streamlit will automatically start a local web server.
 You’ll see something like this in your Command Prompt:
+
 ```bash
 You can now view your Streamlit app in your browser.
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.x.x:8501
-```bash
+```
 
 Open your browser (it usually opens automatically) and go to:
 👉 http://localhost:8501
@@ -80,17 +81,17 @@ It demonstrates a typical borelog layout with aligned but unstructured data colu
 
 ## 🧱 Example Workflow
 
-Upload spt_a1.pdf
+1. Upload spt_a1.pdf
 
-Use the click tool to set left/right boundaries of each column.
+2. Use the click tool to set left/right boundaries of each column.
 
-Rename columns (e.g., Soil Type, Depth, SPT N, Moisture %).
+3. Rename columns (e.g., Soil Type, Depth, SPT N, Moisture %).
 
-Adjust header/footer cutoffs to trim noise.
+4. Adjust header/footer cutoffs to trim noise.
 
-Click Extract Current Page or Extract All Pages.
+5. Click Extract Current Page or Extract All Pages.
 
-Download your structured Excel file. ✅
+6. Download your structured Excel file. ✅
 
 ## 🧩 Directory Structure
 📂 Geotechnical-Borelog-Digitizer
