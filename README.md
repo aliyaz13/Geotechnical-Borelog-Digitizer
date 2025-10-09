@@ -102,7 +102,7 @@ It demonstrates a typical borelog layout with **aligned but inconsistently space
  ├── pdf_table_extractor_gui_04.py      # Main Streamlit app
  ├── spt_a1.pdf                         # Example test file
  ├── assets/
- │    └── demo_preview.png              # Optional screenshots for README
+ │    └── demo_preview.png              
  └── README.md
 ```
 
