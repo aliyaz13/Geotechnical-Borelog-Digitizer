@@ -54,7 +54,7 @@ cd "C:\Users\YourName\Desktop\Borelog_GUI"
 Run the Streamlit app:
 
 ```bash
-streamlit run pdf_table_extractor_gui_03.py
+streamlit run pdf_table_extractor_gui_04.py
 ```
 
 After running the above command, Streamlit will automatically start a local web server.
