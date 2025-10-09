@@ -40,12 +40,63 @@ Make sure you have **Python 3.9+** installed, then install the required packages
 
 ```bash
 pip install streamlit streamlit-image-coordinates pdfplumber pandas openpyxl pillow
+```bash
 
 
-# Geotechnical Borelog Digitizer
 
-pip install streamlit streamlit-image-coordinates pdfplumber pandas openpyxl
+## 🚀 How to Run (via Command Prompt)
 
-cd C:\Users\RYZEN 5\Desktop\Borelog_GUI
+Navigate to your project folder
+Example (Windows):
 
-python -m streamlit run pdf_table_extractor_gui_04.py
+```bash
+cd "C:\Users\YourName\Desktop\Borelog_GUI"
+```bash
+
+Run the Streamlit app:
+
+```bash
+streamlit run pdf_table_extractor_gui_03.py
+```bash
+
+After running the above command, Streamlit will automatically start a local web server.
+You’ll see something like this in your Command Prompt:
+```bash
+You can now view your Streamlit app in your browser.
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.x.x:8501
+```bash
+
+Open your browser (it usually opens automatically) and go to:
+👉 http://localhost:8501
+
+Upload your test PDF (for example, spt_a1.pdf included in this repo) and start using the app.
+
+## 🧪 Test File
+
+A sample file spt_a1.pdf is included in this repository.
+It demonstrates a typical borelog layout with aligned but unstructured data columns.
+
+## 🧱 Example Workflow
+
+Upload spt_a1.pdf
+
+Use the click tool to set left/right boundaries of each column.
+
+Rename columns (e.g., Soil Type, Depth, SPT N, Moisture %).
+
+Adjust header/footer cutoffs to trim noise.
+
+Click Extract Current Page or Extract All Pages.
+
+Download your structured Excel file. ✅
+
+## 🧩 Directory Structure
+📂 Geotechnical-Borelog-Digitizer
+ ├── pdf_table_extractor_gui_03.py      # Main Streamlit app
+ ├── spt_a1.pdf                         # Example test file
+ ├── requirements.txt                   # (Optional) Dependencies list
+ ├── assets/
+ │    └── demo_preview.png              # Optional screenshots for README
+ └── README.md
